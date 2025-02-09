@@ -25,7 +25,7 @@ Extensive Community – A large community supports and maintains OpenCV.
 
 Installation________________>>>>>>
 (pip install opencv-python)
-
+                                                                                                                                                                                                                                                                                                                                                                                                                        
 Key Features of OpenCV
 Image Processing – Resize, crop, filter, and enhance images.
 Object Detection – Identify objects like faces, cars, and people.
@@ -60,7 +60,7 @@ opencv_photo	Image enhancement techniques (denoising, inpainting)
 opencv_stitching	Image stitching (panorama creation)
 opencv_highgui	GUI functions for displaying images and videos
 opencv_imgcodecs	Encoding and decoding image formats (JPEG, PNG, BMP)
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 OpenCV is a powerful tool with different modules for:
 ✔ Image Processing (cv2.imgproc)
 ✔ Video Processing (cv2.videoio)
